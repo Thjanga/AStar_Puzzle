@@ -1,1 +1,1 @@
-# A-Puzzle
+# A* Puzzle
