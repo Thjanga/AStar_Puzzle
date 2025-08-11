@@ -1,6 +1,6 @@
-# 8 Puzzle Solver with A* Search
+# 8 Puzzle
 
-Python으로 구현한 **3x3 Sliding Puzzle (8 퍼즐)** 해결 프로그램입니다.  
+Python으로 구현한 **8 Puzzle** 해결 프로그램입니다.  
 수동 모드와 **A\* 탐색** 기반 자동 해결 모드를 지원합니다.
 
 ---
